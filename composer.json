@@ -1,0 +1,32 @@
+{
+  "name": "t1st3/license-icons",
+  "homepage": "https://github.com/T1st3/license-icons",
+  "description": "Icons and logos from various licenses of the coding community",
+  "keywords": [
+    "icon",
+    "vendor",
+    "png",
+    "css",
+    "spritesheet"
+  ],
+  "license": "MIT",
+    "authors": [
+    {
+      "name": "T1st3",
+      "email": "contact@tiste.org",
+      "homepage": "http://www.tiste.org/",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/T1st3/license-icons/issues/"
+  },
+  "type": "library",
+  "extra": {
+    "component": {
+      "files": [
+        "dist/*"
+      ]
+    }
+  }
+}

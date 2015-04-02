@@ -1,0 +1,36 @@
+{
+  "name": "license-icons",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/license-icons",
+  "description": "Icons and logos from various licenses of the coding community",
+  "keywords": [
+    "icon",
+    "vendor",
+    "png",
+    "css",
+    "spritesheet"
+  ],
+  "license": "MIT",
+  "authors": [
+    "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
+  ],
+  "main": [
+    "./dist"
+  ],
+  "ignore": [
+    "bower_components",
+    ".bowerrc",
+    "node_modules",
+    "package.json",
+    ".git",
+    ".gitignore",
+    ".gitattributes",
+    ".npmignore",
+    ".editorconfig",
+    "gulpfile.js",
+    ".editorconfig",
+    ".travis.yml",
+    ".npmignore"
+  ],
+  "dependencies": {}
+}
