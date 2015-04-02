@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+- '0.10'
+before_install:
+- npm install -g gulp grunt-cli
+deploy:
+  provider: npm
+  email: contact@tiste.org
+  api_key:
+    secure: cOvnNtcJImzv5uvLD0zBErf7tatq/0ep0CaCU/pW1lkuEQDhZKqTwAbhjEdCg39sF+asKdUkM9P6MNDmWzH69CY5H7YY5y9v/Wrvx2sxeZc67fp+cyMJDqTJGwqx3+oN3peHXWhA/9nC/vOq8VBmTUkCcmNv21V3KKxfhr1IrIA=
+  on:
+    tags: true
+    repo: T1st3/license-icons
