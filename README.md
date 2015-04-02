@@ -15,10 +15,10 @@ license-icons
 About
 --------
 
-Icons and logos from various vendors of the coding community. While the project is opened to new icons, its author admits the project is kind of orientated towards JavaScript / Web & HTML5 / HybridApps.
+Icons and logos from various vendors of the coding community.
 
 
-This project just provides icons from various projects. All icons are made available through the following dimensions (in pixels):
+This project just provides icons from various licenses. All icons are made available through the following dimensions (in pixels):
 
 * 16x16
 * 32x32
