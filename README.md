@@ -58,6 +58,15 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 The icons are borrowed from the following projects:
 
+* [![BSD](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
+* [![Copyleft](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
+* [![GPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
+* [![MIT](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
+* [![Open Source](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
+* [![WTFPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
+
+
+
 License
 ---------
 
