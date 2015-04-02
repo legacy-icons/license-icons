@@ -58,6 +58,7 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 The icons are borrowed from the following projects:
 
+* [![Apache](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/apache.png) Apache](https://www.apache.org/licenses/LICENSE-2.0)
 * [![BSD](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
 * [![Copyleft](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
 * [![GPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
