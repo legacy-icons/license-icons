@@ -39,9 +39,15 @@
   background-position: -64px -32px;
 }
 
-.license-icons.wtfpl {
+.license-icons.public-domain {
   width: 32px;
   height: 32px;
   background-position: 0px -64px;
+}
+
+.license-icons.wtfpl {
+  width: 32px;
+  height: 32px;
+  background-position: -32px -64px;
 }
 
