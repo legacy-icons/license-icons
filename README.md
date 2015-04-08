@@ -63,6 +63,7 @@ The icons are borrowed from the following projects:
 * [![Copyleft](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
 * [![GPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 * [![MIT](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
+* [![Mozilla MPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mozilla.png) Mozilla MPL](https://www.mozilla.org/MPL/)
 * [![Open Source](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
 * [![Public domain](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/public-domain.png) Public domain](http://en.wikipedia.org/wiki/Public_domain)
 * [![WTFPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
