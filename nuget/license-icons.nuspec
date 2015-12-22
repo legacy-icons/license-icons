@@ -11,7 +11,7 @@
     <summary>License-Icons</summary>
     <language>en-us</language>
     <projectUrl>https://github.com/T1st3/license-icons</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/T1st3/license-icons/master/dist/sprite/license-icons.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/T1st3/license-icons/master/dist/sprite-16x16/license-icons.png</iconUrl>
     <licenseUrl>https://github.com/T1st3/license-icons#license</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
