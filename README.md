@@ -5,7 +5,7 @@ license-icons
 [![NPM version](https://img.shields.io/npm/v/license-icons.svg)](https://www.npmjs.org/package/license-icons)
 [![Bower version](https://img.shields.io/bower/v/license-icons.svg)](http://bower.io/search/?q=license-icons)
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/license-icons.svg)](https://packagist.org/packages/t1st3/license-icons)
-
+[![Nuget version](https://img.shields.io/nuget/v/license-icons.svg)](https://www.nuget.org/packages/license-icons/)
 
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/license-icons.svg)](https://david-dm.org/t1st3/license-icons)
 [![Build Status](https://img.shields.io/travis/T1st3/license-icons.svg)](https://travis-ci.org/T1st3/license-icons)
@@ -56,17 +56,47 @@ All the positioning of the icons inside this alone image is made through CSS, wh
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
-The icons are borrowed from the following projects:
 
-* [![Apache](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/apache.png) Apache](https://www.apache.org/licenses/LICENSE-2.0)
-* [![BSD](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
-* [![Copyleft](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
-* [![GPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
-* [![MIT](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
-* [![Mozilla MPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mozilla.png) Mozilla MPL](https://www.mozilla.org/MPL/)
-* [![Open Source](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
-* [![Public domain](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/public-domain.png) Public domain](http://en.wikipedia.org/wiki/Public_domain)
-* [![WTFPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
+
+Get the package with NPM
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+npm install license-icons
+```
+
+
+
+Get the package with Bower
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+bower install license-icons
+```
+
+
+Get the package with Composer / Packagist
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+composer require t1st3/license-icons
+```
+
+
+Get the package with NuGet
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+Install-Package license-icons
+```
 
 
 
@@ -81,6 +111,19 @@ Please note that the project "license-icons" does not consider these icons as fr
 if you want to use these icons in your project, you may|shall|should|must check with the rightful owners that your use of the icon is OK.
 
 
+The icons are borrowed from the following projects:
+
+* [![Apache](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/apache.png) Apache](https://www.apache.org/licenses/LICENSE-2.0)
+* [![BSD](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
+* [![Copyleft](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
+* [![GPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
+* [![MIT](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
+* [![Mozilla MPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/mozilla.png) Mozilla MPL](https://www.mozilla.org/MPL/)
+* [![Open Source](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
+* [![Public domain](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/public-domain.png) Public domain](http://en.wikipedia.org/wiki/Public_domain)
+* [![WTFPL](https://raw.githubusercontent.com/T1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
+
+
 
 
 About the rest (all this repository but the icons)
@@ -90,8 +133,4 @@ All the content of this repository (excepted the icon pack)
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
-
-
-
-
 
