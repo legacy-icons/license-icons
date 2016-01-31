@@ -4,15 +4,15 @@
     <id>license-icons</id>
     <version>0.2</version>
     <title>License-Icons</title>
-    <authors>T1st3</authors>
+    <authors>t1st3</authors>
     <owners>t1st3</owners>
     <description>Icons and logos from various licenses of the coding community, shipped with CSS spritesheet</description>
-    <releaseNotes>https://github.com/T1st3/license-icons/releases</releaseNotes>
+    <releaseNotes>https://github.com/t1st3/license-icons/releases</releaseNotes>
     <summary>License-Icons</summary>
     <language>en-us</language>
-    <projectUrl>https://github.com/T1st3/license-icons</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/T1st3/license-icons/master/dist/sprite-16x16/license-icons.png</iconUrl>
-    <licenseUrl>https://github.com/T1st3/license-icons#license</licenseUrl>
+    <projectUrl>https://github.com/t1st3/license-icons</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/t1st3/license-icons/master/dist/sprite-16x16/license-icons.png</iconUrl>
+    <licenseUrl>https://github.com/t1st3/license-icons#license</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
