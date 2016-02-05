@@ -1,6 +1,5 @@
-license-icons
-============
 
+# license-icons
 
 [![NPM version](https://img.shields.io/npm/v/license-icons.svg)](https://www.npmjs.org/package/license-icons)
 [![Bower version](https://img.shields.io/bower/v/license-icons.svg)](http://bower.io/search/?q=license-icons)
@@ -11,12 +10,9 @@ license-icons
 [![Build Status](https://img.shields.io/travis/t1st3/license-icons.svg)](https://travis-ci.org/t1st3/license-icons)
 
 
-
-About
---------
+## About
 
 Icons and logos from various vendors of the coding community.
-
 
 This project just provides icons from various licenses. All icons are made available through the following dimensions (in pixels):
 
@@ -29,13 +25,12 @@ This project just provides icons from various licenses. All icons are made avail
 * 256x256
 
 
-CSS spritesheets
-----------
+## CSS spritesheets
 
 You can insert the icons directly into your HTML with a common IMG tag:
 
-```
-    <img alt="Github logo" src="dist/32x32/mit.png" width="32" height="32">
+```html
+<img alt="Github logo" src="dist/32x32/mit.png" width="32" height="32">
 ```
 
 
@@ -49,59 +44,36 @@ This is what it actually looks:
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
 
-```
-    <div class="license-icons mit"></div>
+```html
+<div class="license-icons mit"></div>
 ```
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
+## Install
+
+### Get the package with NPM
+
+> npm install license-icons
 
 
-Get the package with NPM
-----------
+### Get the package with Bower
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-npm install license-icons
-```
+> bower install license-icons
 
 
+### Get the package with Composer / Packagist
 
-Get the package with Bower
-----------
-
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-bower install license-icons
-```
+> composer require t1st3/license-icons
 
 
-Get the package with Composer / Packagist
-----------
+### Get the package with NuGet
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-composer require t1st3/license-icons
-```
+> Install-Package license-icons
 
 
-Get the package with NuGet
-----------
-
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-Install-Package license-icons
-```
-
-
-Build (the whole project or your custom project)
-----------
-
+## Build the whole project or your custom project
 
 We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
 
@@ -109,28 +81,22 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
 
 **with NPM 2.x.x**
 
-```
-npm install
-```
+> npm install
 
 **with NPM 3.x.x** (resolve dependencies for `node-spritesheet` before this module's ones)
 
-```
-npm install grunt grunt-contrib-coffee grunt-contrib-clean
-npm install
-```
+> npm install grunt grunt-contrib-coffee grunt-contrib-clean
+
+> npm install
 
 then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.
 
 then, you can run the `gulp build` task to build the project:
 
-
-```
-gulp build
-```
+> gulp build
 
 
-**What the build task does?**
+### What the build task does?
 
 First, it takes PNG files from the `src` folder, and pastes them to the `dist` folder.
 
@@ -142,8 +108,7 @@ empty the `src` directory, except `bsd` and `mit` icons in PNG format, and then 
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
 
 
-License
----------
+## License
 
 Each icon in this project belong to its original author, and for most of them, they are copyrighted. Some of these icons may not match their project's official icon/logo.
 
@@ -166,10 +131,7 @@ The icons are borrowed from the following projects:
 * [![WTFPL](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
 
 
-
-
-About the rest (all this repository but the icons)
-----------
+### About the rest (all this repository but the icons)
 
 All the content of this repository (excepted the icon pack) 
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
