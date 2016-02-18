@@ -1,6 +1,7 @@
 ## Change Log
 
-### 0.2.6 (2016/02/15 09:56 +00:00)
+### 0.2.6 (2016/02/15 09:57 +00:00)
+- [d50b323](https://github.com/legacy-icons/license-icons/commit/d50b323c958adc223e65cc0ff350a9730c1ef95a) chore: 0.2.6 (@t1st3)
 - [#4](https://github.com/legacy-icons/license-icons/pull/4) chore(package): update gulp-cssnano to version 2.1.1 (@t1st3)
 - [6684099](https://github.com/legacy-icons/license-icons/commit/66840995e084554f5a36b0a710a2a9857870f426) chore(package): update gulp-cssnano to version 2.1.1 (@greenkeeperio-bot)
 - [#3](https://github.com/legacy-icons/license-icons/pull/3) chore(package): update gulp to version 3.9.1 (@t1st3)
