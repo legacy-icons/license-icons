@@ -1,6 +1,6 @@
 {
-  "name": "t1st3/license-icons",
-  "homepage": "https://github.com/t1st3/license-icons",
+  "name": "legacy-icons/license-icons",
+  "homepage": "https://github.com/legacy-icons/license-icons",
   "description": "Icons and logos from various licenses of the coding community",
   "keywords": [
     "icon",
@@ -19,7 +19,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/t1st3/license-icons/issues/"
+    "issues": "https://github.com/legacy-icons/license-icons/issues/"
   },
   "type": "library",
   "extra": {

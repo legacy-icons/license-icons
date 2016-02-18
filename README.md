@@ -3,11 +3,11 @@
 
 [![NPM version](https://img.shields.io/npm/v/license-icons.svg)](https://www.npmjs.org/package/license-icons)
 [![Bower version](https://img.shields.io/bower/v/license-icons.svg)](http://bower.io/search/?q=license-icons)
-[![Packagist version](https://img.shields.io/packagist/v/t1st3/license-icons.svg)](https://packagist.org/packages/t1st3/license-icons)
+[![Packagist version](https://img.shields.io/packagist/v/legacy-icons/license-icons.svg)](https://packagist.org/packages/legacy-icons/license-icons)
 [![Nuget version](https://img.shields.io/nuget/v/license-icons.svg)](https://www.nuget.org/packages/license-icons/)
 
-[![Dependency Status](https://img.shields.io/david/dev/t1st3/license-icons.svg)](https://david-dm.org/t1st3/license-icons)
-[![Build Status](https://img.shields.io/travis/t1st3/license-icons.svg)](https://travis-ci.org/t1st3/license-icons)
+[![Dependency Status](https://img.shields.io/david/dev/legacy-icons/license-icons.svg)](https://david-dm.org/legacy-icons/license-icons)
+[![Build Status](https://img.shields.io/travis/legacy-icons/license-icons.svg)](https://travis-ci.org/legacy-icons/license-icons)
 
 
 ## About
@@ -38,8 +38,8 @@ In addition to the icons by themselves, this project also ships a CSS spriteshee
 
 This is what it actually looks:
 
-![Spritesheet](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/sprite-32x32/license-icons.png)
-![Spritesheet](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/sprite-16x16/license-icons.png)
+![Spritesheet](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/sprite-32x32/license-icons.png)
+![Spritesheet](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/sprite-16x16/license-icons.png)
 
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
@@ -65,7 +65,7 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 ### Get the package with Composer / Packagist
 
-> composer require t1st3/license-icons
+> composer require legacy-icons/license-icons
 
 
 ### Get the package with NuGet
@@ -120,15 +120,15 @@ if you want to use these icons in your project, you may|shall|should|must check 
 
 The icons are borrowed from the following projects:
 
-* [![Apache](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/apache.png) Apache](https://www.apache.org/licenses/LICENSE-2.0)
-* [![BSD](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
-* [![Copyleft](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
-* [![GPL](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
-* [![MIT](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
-* [![Mozilla MPL](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/mozilla.png) Mozilla MPL](https://www.mozilla.org/MPL/)
-* [![Open Source](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
-* [![Public domain](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/public-domain.png) Public domain](http://en.wikipedia.org/wiki/Public_domain)
-* [![WTFPL](https://raw.githubusercontent.com/t1st3/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
+* [![Apache](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/apache.png) Apache](https://www.apache.org/licenses/LICENSE-2.0)
+* [![BSD](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/bsd.png) BSD](http://opensource.org/licenses/BSD-3-Clause)
+* [![Copyleft](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/copyleft.png) Copyleft](https://www.gnu.org/copyleft/copyleft.en.html)
+* [![GPL](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/gpl.png) GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
+* [![MIT](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/mit.png) MIT](http://opensource.org/licenses/MIT)
+* [![Mozilla MPL](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/mozilla.png) Mozilla MPL](https://www.mozilla.org/MPL/)
+* [![Open Source](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/open-source.png) Open Source](http://opensource.org/licenses)
+* [![Public domain](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/public-domain.png) Public domain](http://en.wikipedia.org/wiki/Public_domain)
+* [![WTFPL](https://raw.githubusercontent.com/legacy-icons/license-icons/master/dist/32x32/wtfpl.png) WTFPL](http://www.wtfpl.net/)
 
 
 ### About the rest (all this repository but the icons)
